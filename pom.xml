@@ -4,7 +4,7 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 	
-    <groupId>com.ruoyi</groupId>
+    <groupId>com.hp</groupId>
     <artifactId>hp-manage</artifactId>
     <version>3.8.4</version>
 
@@ -152,35 +152,35 @@
 
             <!-- 定时任务-->
             <dependency>
-                <groupId>com.ruoyi</groupId>
+                <groupId>com.hp</groupId>
                 <artifactId>hp-quartz</artifactId>
                 <version>${hp-manage.version}</version>
             </dependency>
 
             <!-- 代码生成-->
             <dependency>
-                <groupId>com.ruoyi</groupId>
+                <groupId>com.hp</groupId>
                 <artifactId>hp-generator</artifactId>
                 <version>${hp-manage.version}</version>
             </dependency>
 
             <!-- 核心模块-->
             <dependency>
-                <groupId>com.ruoyi</groupId>
+                <groupId>com.hp</groupId>
                 <artifactId>hp-framework</artifactId>
                 <version>${hp-manage.version}</version>
             </dependency>
 
             <!-- 系统模块-->
             <dependency>
-                <groupId>com.ruoyi</groupId>
+                <groupId>com.hp</groupId>
                 <artifactId>hp-system</artifactId>
                 <version>${hp-manage.version}</version>
             </dependency>
 
             <!-- 通用工具-->
             <dependency>
-                <groupId>com.ruoyi</groupId>
+                <groupId>com.hp</groupId>
                 <artifactId>hp-common</artifactId>
                 <version>${hp-manage.version}</version>
             </dependency>
