@@ -9,7 +9,7 @@ import org.apache.commons.lang3.builder.ToStringStyle;
 /**
  * 定时任务调度日志表 sys_job_log
  * 
- * @author ruoyi
+ * @author jocker
  */
 public class SysJobLog extends BaseEntity
 {

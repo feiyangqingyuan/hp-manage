@@ -22,7 +22,7 @@ import org.springframework.security.web.authentication.logout.LogoutSuccessHandl
 /**
  * 自定义退出处理类 返回成功
  * 
- * @author ruoyi
+ * @author jocker
  */
 @Configuration
 public class LogoutSuccessHandlerImpl implements LogoutSuccessHandler

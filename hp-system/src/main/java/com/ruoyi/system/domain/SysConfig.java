@@ -11,7 +11,7 @@ import org.apache.commons.lang3.builder.ToStringStyle;
 /**
  * 参数配置表 sys_config
  * 
- * @author ruoyi
+ * @author jocker
  */
 public class SysConfig extends BaseEntity
 {

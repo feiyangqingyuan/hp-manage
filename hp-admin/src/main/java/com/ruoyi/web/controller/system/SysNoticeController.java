@@ -23,7 +23,7 @@ import org.springframework.web.bind.annotation.RestController;
 /**
  * 公告 信息操作处理
  * 
- * @author ruoyi
+ * @author jocker
  */
 @RestController
 @RequestMapping("/system/notice")

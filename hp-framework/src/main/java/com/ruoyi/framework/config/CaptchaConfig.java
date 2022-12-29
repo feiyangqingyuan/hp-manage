@@ -24,7 +24,7 @@ import org.springframework.context.annotation.Configuration;
 /**
  * 验证码配置
  * 
- * @author ruoyi
+ * @author jocker
  */
 @Configuration
 public class CaptchaConfig

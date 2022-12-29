@@ -20,7 +20,7 @@ import org.springframework.stereotype.Service;
 /**
  * 参数配置 服务层实现
  * 
- * @author ruoyi
+ * @author jocker
  */
 @Service
 public class SysConfigServiceImpl implements ISysConfigService

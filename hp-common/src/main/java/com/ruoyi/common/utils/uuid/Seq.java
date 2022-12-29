@@ -5,7 +5,7 @@ import com.ruoyi.common.utils.StringUtils;
 import java.util.concurrent.atomic.AtomicInteger;
 
 /**
- * @author ruoyi 序列生成类
+ * @author jocker 序列生成类
  */
 public class Seq
 {

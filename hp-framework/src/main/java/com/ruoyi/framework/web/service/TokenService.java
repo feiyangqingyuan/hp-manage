@@ -24,7 +24,7 @@ import org.springframework.stereotype.Component;
 /**
  * token验证处理
  *
- * @author ruoyi
+ * @author jocker
  */
 @Component
 public class TokenService

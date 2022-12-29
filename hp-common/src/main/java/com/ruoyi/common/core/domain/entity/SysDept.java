@@ -13,7 +13,7 @@ import org.apache.commons.lang3.builder.ToStringStyle;
 /**
  * 部门表 sys_dept
  * 
- * @author ruoyi
+ * @author jocker
  */
 public class SysDept extends BaseEntity
 {

@@ -3,7 +3,7 @@ package com.ruoyi.common.exception;
 /**
  * 全局异常
  * 
- * @author ruoyi
+ * @author jocker
  */
 public class GlobalException extends RuntimeException
 {

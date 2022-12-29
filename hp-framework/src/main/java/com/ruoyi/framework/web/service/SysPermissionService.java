@@ -13,7 +13,7 @@ import org.springframework.stereotype.Component;
 /**
  * 用户权限处理
  * 
- * @author ruoyi
+ * @author jocker
  */
 @Component
 public class SysPermissionService

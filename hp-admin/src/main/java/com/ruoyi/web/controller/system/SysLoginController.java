@@ -20,7 +20,7 @@ import org.springframework.web.bind.annotation.RestController;
 /**
  * 登录验证
  * 
- * @author ruoyi
+ * @author jocker
  */
 @RestController
 public class SysLoginController

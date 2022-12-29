@@ -28,7 +28,7 @@ import org.springframework.transaction.annotation.Transactional;
 /**
  * 角色 业务层处理
  * 
- * @author ruoyi
+ * @author jocker
  */
 @Service
 public class SysRoleServiceImpl implements ISysRoleService

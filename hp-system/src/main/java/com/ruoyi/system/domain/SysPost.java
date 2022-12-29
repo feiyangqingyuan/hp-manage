@@ -11,7 +11,7 @@ import org.apache.commons.lang3.builder.ToStringStyle;
 /**
  * 岗位表 sys_post
  * 
- * @author ruoyi
+ * @author jocker
  */
 public class SysPost extends BaseEntity
 {

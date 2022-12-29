@@ -30,7 +30,7 @@ import org.springframework.web.bind.annotation.RestController;
 /**
  * 调度任务信息操作处理
  * 
- * @author ruoyi
+ * @author jocker
  */
 @RestController
 @RequestMapping("/monitor/job")

@@ -11,7 +11,7 @@ import java.lang.annotation.Target;
 /**
  * 限流注解
  * 
- * @author ruoyi
+ * @author jocker
  */
 @Target(ElementType.METHOD)
 @Retention(RetentionPolicy.RUNTIME)

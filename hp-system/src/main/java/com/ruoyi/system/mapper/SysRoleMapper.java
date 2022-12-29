@@ -6,7 +6,7 @@ import java.util.List;
 /**
  * 角色表 数据层
  * 
- * @author ruoyi
+ * @author jocker
  */
 public interface SysRoleMapper
 {

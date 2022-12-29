@@ -10,7 +10,7 @@ import org.springframework.stereotype.Service;
 /**
  * 业务字段 服务层实现
  * 
- * @author ruoyi
+ * @author jocker
  */
 @Service
 public class GenTableColumnServiceImpl implements IGenTableColumnService 

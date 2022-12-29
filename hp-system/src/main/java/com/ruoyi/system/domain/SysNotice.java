@@ -10,7 +10,7 @@ import org.apache.commons.lang3.builder.ToStringStyle;
 /**
  * 通知公告表 sys_notice
  * 
- * @author ruoyi
+ * @author jocker
  */
 public class SysNotice extends BaseEntity
 {

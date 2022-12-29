@@ -15,7 +15,7 @@ import org.springframework.context.annotation.Configuration;
 /**
  * Filter配置
  *
- * @author ruoyi
+ * @author jocker
  */
 @Configuration
 public class FilterConfig

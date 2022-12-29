@@ -20,7 +20,7 @@ import org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandl
 /**
  * 设置Anonymous注解允许匿名访问的url
  * 
- * @author ruoyi
+ * @author jocker
  */
 @Configuration
 public class PermitAllUrlProperties implements InitializingBean, ApplicationContextAware

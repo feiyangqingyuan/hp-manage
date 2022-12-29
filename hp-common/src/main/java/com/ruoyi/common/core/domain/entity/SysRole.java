@@ -12,7 +12,7 @@ import org.apache.commons.lang3.builder.ToStringStyle;
 /**
  * 角色表 sys_role
  * 
- * @author ruoyi
+ * @author jocker
  */
 public class SysRole extends BaseEntity
 {

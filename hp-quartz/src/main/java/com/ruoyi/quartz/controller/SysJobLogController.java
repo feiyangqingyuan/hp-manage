@@ -22,7 +22,7 @@ import org.springframework.web.bind.annotation.RestController;
 /**
  * 调度日志操作处理
  * 
- * @author ruoyi
+ * @author jocker
  */
 @RestController
 @RequestMapping("/monitor/jobLog")

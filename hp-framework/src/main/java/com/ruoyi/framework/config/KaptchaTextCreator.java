@@ -6,7 +6,7 @@ import java.util.Random;
 /**
  * 验证码文本生成器
  *
- * @author ruoyi
+ * @author jocker
  */
 public class KaptchaTextCreator extends DefaultTextCreator
 {

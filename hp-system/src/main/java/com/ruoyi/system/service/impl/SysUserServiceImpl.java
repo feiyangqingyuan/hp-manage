@@ -33,7 +33,7 @@ import org.springframework.util.CollectionUtils;
 /**
  * 用户 业务层处理
  * 
- * @author ruoyi
+ * @author jocker
  */
 @Service
 public class SysUserServiceImpl implements ISysUserService

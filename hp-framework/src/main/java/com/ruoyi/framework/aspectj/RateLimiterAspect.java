@@ -23,7 +23,7 @@ import org.springframework.stereotype.Component;
 /**
  * 限流处理
  *
- * @author ruoyi
+ * @author jocker
  */
 @Aspect
 @Component

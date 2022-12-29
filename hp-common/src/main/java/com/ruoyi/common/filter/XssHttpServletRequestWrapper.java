@@ -15,7 +15,7 @@ import org.springframework.http.MediaType;
 /**
  * XSS过滤处理
  * 
- * @author ruoyi
+ * @author jocker
  */
 public class XssHttpServletRequestWrapper extends HttpServletRequestWrapper
 {

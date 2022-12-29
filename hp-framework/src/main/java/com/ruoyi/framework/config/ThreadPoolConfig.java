@@ -12,7 +12,7 @@ import org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor;
 /**
  * 线程池配置
  *
- * @author ruoyi
+ * @author jocker
  **/
 @Configuration
 public class ThreadPoolConfig

@@ -14,7 +14,7 @@ import org.springframework.stereotype.Service;
 /**
  * 岗位信息 服务层处理
  * 
- * @author ruoyi
+ * @author jocker
  */
 @Service
 public class SysPostServiceImpl implements ISysPostService

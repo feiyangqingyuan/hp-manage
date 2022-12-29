@@ -25,7 +25,7 @@ import org.springframework.web.bind.annotation.RestController;
 /**
  * swagger 用户测试方法
  * 
- * @author ruoyi
+ * @author jocker
  */
 @Api("用户信息管理")
 @RestController

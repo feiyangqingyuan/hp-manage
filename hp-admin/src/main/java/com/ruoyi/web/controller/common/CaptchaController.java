@@ -23,7 +23,7 @@ import org.springframework.web.bind.annotation.RestController;
 /**
  * 验证码操作处理
  * 
- * @author ruoyi
+ * @author jocker
  */
 @RestController
 public class CaptchaController

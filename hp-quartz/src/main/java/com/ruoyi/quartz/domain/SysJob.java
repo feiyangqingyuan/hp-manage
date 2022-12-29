@@ -16,7 +16,7 @@ import org.apache.commons.lang3.builder.ToStringStyle;
 /**
  * 定时任务调度表 sys_job
  * 
- * @author ruoyi
+ * @author jocker
  */
 public class SysJob extends BaseEntity
 {

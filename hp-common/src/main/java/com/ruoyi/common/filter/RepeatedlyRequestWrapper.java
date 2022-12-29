@@ -15,7 +15,7 @@ import javax.servlet.http.HttpServletRequestWrapper;
 /**
  * 构建可重复读取inputStream的request
  * 
- * @author ruoyi
+ * @author jocker
  */
 public class RepeatedlyRequestWrapper extends HttpServletRequestWrapper
 {

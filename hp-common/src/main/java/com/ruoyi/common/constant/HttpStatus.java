@@ -3,7 +3,7 @@ package com.ruoyi.common.constant;
 /**
  * 返回状态码
  * 
- * @author ruoyi
+ * @author jocker
  */
 public class HttpStatus
 {

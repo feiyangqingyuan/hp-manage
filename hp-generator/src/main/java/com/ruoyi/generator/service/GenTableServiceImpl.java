@@ -40,7 +40,7 @@ import org.springframework.transaction.annotation.Transactional;
 /**
  * 业务 服务层实现
  * 
- * @author ruoyi
+ * @author jocker
  */
 @Service
 public class GenTableServiceImpl implements IGenTableService

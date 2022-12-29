@@ -36,7 +36,7 @@ import org.springframework.web.multipart.MultipartFile;
 /**
  * 用户信息
  * 
- * @author ruoyi
+ * @author jocker
  */
 @RestController
 @RequestMapping("/system/user")

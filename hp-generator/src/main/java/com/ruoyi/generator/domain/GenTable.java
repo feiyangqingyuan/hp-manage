@@ -11,7 +11,7 @@ import org.apache.commons.lang3.ArrayUtils;
 /**
  * 业务表 gen_table
  * 
- * @author ruoyi
+ * @author jocker
  */
 public class GenTable extends BaseEntity
 {

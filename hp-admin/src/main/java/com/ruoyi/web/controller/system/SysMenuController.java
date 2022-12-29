@@ -24,7 +24,7 @@ import org.springframework.web.bind.annotation.RestController;
 /**
  * 菜单信息
  * 
- * @author ruoyi
+ * @author jocker
  */
 @RestController
 @RequestMapping("/system/menu")

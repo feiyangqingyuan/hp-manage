@@ -24,7 +24,7 @@ import org.springframework.web.multipart.MultipartFile;
 /**
  * 通用请求处理
  * 
- * @author ruoyi
+ * @author jocker
  */
 @RestController
 @RequestMapping("/common")

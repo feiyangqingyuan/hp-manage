@@ -25,7 +25,7 @@ import org.springframework.web.bind.annotation.RestController;
 /**
  * 部门信息
  * 
- * @author ruoyi
+ * @author jocker
  */
 @RestController
 @RequestMapping("/system/dept")

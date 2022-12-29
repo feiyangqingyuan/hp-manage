@@ -16,7 +16,7 @@ import org.apache.velocity.VelocityContext;
 /**
  * 模板处理工具类
  * 
- * @author ruoyi
+ * @author jocker
  */
 public class VelocityUtils
 {

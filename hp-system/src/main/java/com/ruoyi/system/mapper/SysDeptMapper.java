@@ -7,7 +7,7 @@ import org.apache.ibatis.annotations.Param;
 /**
  * 部门管理 数据层
  * 
- * @author ruoyi
+ * @author jocker
  */
 public interface SysDeptMapper
 {

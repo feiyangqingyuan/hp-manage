@@ -24,7 +24,7 @@ import org.springframework.web.bind.annotation.InitBinder;
 /**
  * web层通用数据处理
  * 
- * @author ruoyi
+ * @author jocker
  */
 public class BaseController
 {

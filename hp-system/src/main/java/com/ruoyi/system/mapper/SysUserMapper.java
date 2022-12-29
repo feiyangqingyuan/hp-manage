@@ -7,7 +7,7 @@ import org.apache.ibatis.annotations.Param;
 /**
  * 用户表 数据层
  * 
- * @author ruoyi
+ * @author jocker
  */
 public interface SysUserMapper
 {

@@ -26,7 +26,7 @@ import org.springframework.web.bind.annotation.RestController;
 /**
  * 在线用户监控
  * 
- * @author ruoyi
+ * @author jocker
  */
 @RestController
 @RequestMapping("/monitor/online")

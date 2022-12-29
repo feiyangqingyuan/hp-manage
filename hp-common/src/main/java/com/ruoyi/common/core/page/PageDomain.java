@@ -5,7 +5,7 @@ import com.ruoyi.common.utils.StringUtils;
 /**
  * 分页数据
  * 
- * @author ruoyi
+ * @author jocker
  */
 public class PageDomain
 {

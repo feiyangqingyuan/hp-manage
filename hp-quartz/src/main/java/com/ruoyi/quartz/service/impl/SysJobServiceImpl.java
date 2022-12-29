@@ -20,7 +20,7 @@ import org.springframework.transaction.annotation.Transactional;
 /**
  * 定时任务调度信息 服务层
  * 
- * @author ruoyi
+ * @author jocker
  */
 @Service
 public class SysJobServiceImpl implements ISysJobService

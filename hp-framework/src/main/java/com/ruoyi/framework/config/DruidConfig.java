@@ -27,7 +27,7 @@ import org.springframework.context.annotation.Primary;
 /**
  * druid 配置多数据源
  * 
- * @author ruoyi
+ * @author jocker
  */
 @Configuration
 public class DruidConfig

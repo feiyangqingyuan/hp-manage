@@ -19,7 +19,7 @@ import org.slf4j.LoggerFactory;
 /**
  * 抽象quartz调用
  *
- * @author ruoyi
+ * @author jocker
  */
 public abstract class AbstractQuartzJob implements Job
 {

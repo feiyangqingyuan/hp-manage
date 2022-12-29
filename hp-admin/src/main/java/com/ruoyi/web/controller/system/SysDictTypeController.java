@@ -26,7 +26,7 @@ import org.springframework.web.bind.annotation.RestController;
 /**
  * 数据字典信息
  * 
- * @author ruoyi
+ * @author jocker
  */
 @RestController
 @RequestMapping("/system/dict/type")

@@ -10,7 +10,7 @@ import org.springframework.security.core.userdetails.UserDetails;
 /**
  * 登录用户身份权限
  * 
- * @author ruoyi
+ * @author jocker
  */
 public class LoginUser implements UserDetails
 {

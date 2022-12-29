@@ -24,7 +24,7 @@ import org.springframework.stereotype.Service;
 /**
  * 部门管理 服务实现
  * 
- * @author ruoyi
+ * @author jocker
  */
 @Service
 public class SysDeptServiceImpl implements ISysDeptService
